@@ -95,6 +95,7 @@ select {
 body {
    font-family: var(--ff-main);
    font-weight: 300;
+   font-size: 1.5em;
 }
 
 h1,
